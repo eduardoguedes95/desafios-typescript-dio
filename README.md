@@ -1,2 +1,4 @@
 # desafios-typescript-dio
-Desafios DIO - TypeScript
+Santander BootCamp 2022 // FullStack Developer
+Desafios DIO ---- TypeScript
+Desafios code em TypeScript
